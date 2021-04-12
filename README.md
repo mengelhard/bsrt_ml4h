@@ -10,7 +10,9 @@
 ## Course Documents
 [Syllabus](https://github.com/mengelhard/bsrt_ml4h/blob/master/syllabus.md)
 
-[Final Project](https://github.com/mengelhard/bsrt_ml4h/blob/master/final_project.md)
+[Final Project Instructions](https://github.com/mengelhard/bsrt_ml4h/blob/master/final_project.md)
+
+[Final Project Grading](https://github.com/mengelhard/bsrt_ml4h/blob/master/final_project_grading.md)
 
 ## Schedule
 
