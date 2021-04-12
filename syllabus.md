@@ -1,4 +1,4 @@
-# Syllabus: Machine Learning for Health
+# Syllabus: Machine Learning for Health (ML4H)
 [Course Website](https://github.com/mengelhard/bsrt_ml4h)
 
 **Course Director:** Matthew Engelhard
@@ -56,6 +56,9 @@ Students are expected to notify and negotiate excused absences from course activ
 Any absence without prior notification of the course director is considered unexcused unless documentation of inability to make those contacts is provided. Any absence not approved by a course director for a required part of a course is considered unexcused. An unexcused absence may have a negative impact on the student’s grade or evaluation if so specified in the course syllabus.
 
 Students are strongly encouraged to consult their schedules for the academic term and discuss any planned absences (particularly if multiple class sessions will be missed during the term), with their course director during the drop/add period to determine (a) whether accommodation is possible and (b) arrangements for completing assignments for absences. It is the responsibility of the course director to determine the arrangements (e.g., early submission of work, an alternative assignment, rescheduling an exam, etc.) to be followed when an absence is excused. If accommodation cannot be made, the student may consider whether to remain in the course or drop it in favor of another course that might more easily accommodate their schedule.
+
+## Diversity and Inclusion Statement
+The Clinical Research Training Program is designed to produce the next generation of leaders in clinical research grounded in sound ethical and scientific principles. Central among these are principles of diversity and inclusion, which will enhance our students' ability to improve human health effectively and equitably. We affirm principles of diversity and inclusion put forth by the Duke University School of Medicine and Department of Biostatistics & Bioinformatics, and we are committed to proactively fostering an inclusive environment in which diverse perspectives and backgrounds are welcome and thrive. Diverse perspectives and backgrounds are particularly critical in machine learning to ensure that decision-making algorithms are used ethically, free from bias, and reduce rather than promote disparities and inequities. We are always looking for ways to make course content more inclusive, and encourage students with recommendations or concerns related to diversity and inclusion in the course content to contact the course director.
 
 ## Honor Code
 Please review the Code of Professional Conduct for the Duke University School of Medicine [here](https://medschool.duke.edu/education/student-services/office-student-affairs/code-professional-conduct)
