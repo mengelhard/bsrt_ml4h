@@ -1,5 +1,5 @@
-# Applied Data Science Final Project
-*Due August 7, 2020 at 11:59pm*
+# Machine Learning for Health Final Project
+*due before the last day of class*
 
 ## Team Assignment: 
 Propose a data science research project related to a clinical topic of your choosing. Your project should use techniques from at least one of the topics discussed in class (e.g. multilayer perceptron, computer vision, natural language processing, time-series modeling, reinforcement learning).
@@ -21,4 +21,4 @@ Describe the steps that would be taken to carry out your project, including the 
 Each group will give a 15-minute presentation followed by 5 minutes of Q&A on the last day of class. The presentation should include approximately 5 minutes of background, a brief description of objectives, and approximately 10 minutes describing the approach, with emphasis on model development and evaluation. 
 
 ## Grading:
-The grading scheme may be found [here](https://github.com/mengelhard/mmci_applied_ds/blob/master/final_project_grading.md).
+The grading scheme may be found [here](https://github.com/mengelhard/bsrt_ml4h/blob/master/final_project_grading.md).
