@@ -1,5 +1,5 @@
-# Applied Data Science Final Project Grading
-*Due August 7, 2020 at 11:59pm*
+# Machine Learning for Health Final Project Grading
+*due before the last day of class*
 
 Standards | Exemplary (8-10) | Satisfactory (4-7) | Unacceptable (0-3) | Weight
 --- | --- | --- | --- | ---
