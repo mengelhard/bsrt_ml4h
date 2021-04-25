@@ -16,9 +16,11 @@
 
 ## Schedule
 
-Week | Topic | Readings & Quiz | Computational Exercise
+- Note that assignments for a given week are due before class the following week.
+
+Week | Topic | Lectures | Assignments
 --- | --- | --- | ---
-1 | Introduction to Machine Learning for Health | [Quiz 1](https://github.com/mengelhard/bsrt_ml4h/blob/master/quizzes/block1.md) | [CE1: Coding](https://github.com/mengelhard/bsrt_ml4h/blob/master/notebooks/block1_noshows.ipynb)<br>[CE1: Non-Coding](https://github.com/mengelhard/bsrt_ml4h/blob/master/notebooks/block1_noshows_noncoding.ipynb)
+1 | Introduction to Machine Learning for Health | | - Quiz 1<br>- CE1: [Getting Oriented in Jupyter/Python](https://github.com/mengelhard/bsrt_ml4h/blob/master/notebooks/ce1.ipynb)
 2 | What is a Predictive Model? | [Quiz 2](https://github.com/mengelhard/bsrt_ml4h/blob/master/quizzes/block2.md) | [CE2](https://github.com/mengelhard/bsrt_ml4h/blob/master/notebooks/block2_mnist_cnn.ipynb)
 3 | Model Learning | None | None
 4 | Model Evaluation and Overfitting | [Quiz 3](https://github.com/mengelhard/bsrt_ml4h/blob/master/quizzes/block3.md) | [CE3](https://github.com/mengelhard/bsrt_ml4h/blob/master/notebooks/block3_abstract_classification.ipynb)
