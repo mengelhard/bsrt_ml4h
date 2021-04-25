@@ -20,7 +20,7 @@
 
 Week | Topic | Lectures | Assignments
 --- | --- | --- | ---
-0 | Preliminaries | None | - Review Course Sites (Talent LMS and Github)<br>- Review Course Syllabus and Materials<br>- Quiz 1<br>- CE1: [Getting Oriented in Jupyter/Python]
+0 | Preliminaries | None | - Review Course Sites ([Talent LMS](https://bsrt-dukebiostat.talentlms.com/), [Github](https://github.com/mengelhard/bsrt_ml4h)<br>- Review Course Syllabus and Materials<br>- Quiz 1<br>- CE1: [Getting Oriented in Jupyter/Python]
 1 | Introduction to Machine Learning for Health | | - Quiz 1<br>- CE1: [Getting Oriented in Jupyter/Python](https://github.com/mengelhard/bsrt_ml4h/blob/master/notebooks/ce1.ipynb)
 2 | What is a Predictive Model? | | - Quiz 2<br>[CE2](https://github.com/mengelhard/bsrt_ml4h/blob/master/notebooks/ce2.ipynb)
 3 | Model Learning | | - Quiz 2<br>[CE2](https://github.com/mengelhard/bsrt_ml4h/blob/master/notebooks/ce2.ipynb)
