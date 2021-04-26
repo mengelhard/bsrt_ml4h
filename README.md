@@ -10,14 +10,12 @@
 ## Course Materials
 
 - **[Please review the syllabus by clicking here](https://github.com/mengelhard/bsrt_ml4h/blob/master/syllabus.md)**
-- Materials for each course weekend (*i.e.,* block) are linked in the *Schedule* below
+- Materials for each week are linked in the *Schedule* below
 
 ### Readings and Quizzes
-- There will be a quiz due before blocks 1, 2, 4, and 5.
-- Each quiz (see *Schedule*) links to two articles that should be read before taking it.
-- All articles are also available as .pdf in the *Resources* section of [Sakai](https://sakai.duke.edu).
-- Your answers must be entered in the *Tests and Quizzes* section of [Sakai](https://sakai.duke.edu) before the beginning of class.
-- Quizzes are pass/fail. You must answer *all* questions correctly to pass, but you may retry an unlimited number of times.
+- A weekly reading + survey will be due before each class (with a few exceptions, as noted in the *Schedule*)
+- Readings are linked below (and in [Talent LMS](https://bsrt-dukebiostat.talentlms.com/)), and surveys must be completed in [Talent LMS](https://bsrt-dukebiostat.talentlms.com/)
+- Both are pass/fail and together form a substantial portion () of your final grade
 
 ### Computational Assignments
 - There will be four computational assignments due before blocks 2, 3, 5, and 6.
