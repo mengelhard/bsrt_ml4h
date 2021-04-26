@@ -15,19 +15,18 @@
 ### Readings and Quizzes
 - A weekly reading + survey will be due before each class (with a few exceptions, as noted in the *Schedule*)
 - Readings are linked below (and in [Talent LMS](https://bsrt-dukebiostat.talentlms.com/)), and surveys must be completed in [Talent LMS](https://bsrt-dukebiostat.talentlms.com/)
-- Both are pass/fail and together form a substantial portion () of your final grade
+- Both are pass/fail and together are a substantial portion (25%) of your final grade
 
-### Computational Assignments
-- There will be four computational assignments due before blocks 2, 3, 5, and 6.
-- Each assignment will present code + output and ask you to interpret what you see based on principles from class.
-- **You will not need to code** to complete the assignments, which can be viewed in any web browser.
-- If you *do* have coding experience, you are encouraged to explore further by modifying the code. We recommend either [installing Anaconda](https://www.anaconda.com/products/individual#Downloads) or working in [Google Colab](colab.research.google.com).
-- Recommended Python resources include [Duke Library tutorials](https://library.duke.edu/data/tutorials), the [Python Crash Course book](https://www.amazon.com/Python-Crash-Course-Eric-Matthes-ebook/dp/B07J4521M3/ref=sr_1_1_sspa?dchild=1&keywords=Python+book&qid=1618331896&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEzSVNYTDhDUExZQktDJmVuY3J5cHRlZElkPUEwODgwNjQwM0RNT0U2Nk9XTDdDQiZlbmNyeXB0ZWRBZElkPUEwOTg4NjEyODc5U0ZROVNEQkZEJndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ==), and [Google Python class](https://developers.google.com/edu/python/).
+### Computational Exercises
+- There will be weekly computational exercises due before class (again with a few exceptions, as noted in the *Schedule*)
+- Each assignment will present code, output, and instructions asking you to modify the code to complete additional tasks
+- ***These exercises require you to code in Python in a Jupyter Notebook environment***. We recommend either [installing Anaconda](https://www.anaconda.com/products/individual#Downloads) or working in [Google Colab](colab.research.google.com).
+- Recommended Python resources include [Duke Library tutorials](https://library.duke.edu/data/tutorials), the [Python Crash Course book](https://www.amazon.com/Python-Crash-Course-Eric-Matthes-ebook/dp/B07J4521M3/ref=sr_1_1_sspa?dchild=1&keywords=Python+book&qid=1618331896&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEzSVNYTDhDUExZQktDJmVuY3J5cHRlZElkPUEwODgwNjQwM0RNT0U2Nk9XTDdDQiZlbmNyeXB0ZWRBZElkPUEwOTg4NjEyODc5U0ZROVNEQkZEJndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ==), and [Google Python class](https://developers.google.com/edu/python/)
 
 ### Final Project
 - The course will culminate in a project in which you apply data science methods to a clinical dataset of your choosing.
 - Project instructions and grading details are [here](https://github.com/mengelhard/bsrt_ml4h/blob/master/final_project.md).
-- **Proposals are due** before class on weekend/block 3, and the **project is due** before the final class period.
+- **Proposals are due** before class in week 5, and the **project is due** before the final class period.
 
 ## Schedule
 
