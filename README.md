@@ -12,7 +12,7 @@
 - **[Please review the syllabus by clicking here](https://github.com/mengelhard/bsrt_ml4h/blob/master/syllabus.md)**
 - Materials for each week are linked in the *Schedule* below
 
-### Readings and Quizzes
+### Readings and Post-Reading Surveys
 - A weekly reading + survey will be due before each class (with exceptions noted in the *Schedule*)
 - Readings are linked below, and surveys must be completed in [Talent LMS](https://bsrt-dukebiostat.talentlms.com/)
 - Both are pass/fail and together are a substantial portion (20%) of your final grade
@@ -35,19 +35,19 @@
 
 Week | Topic | Lectures | Assignments
 --- | --- | --- | ---
-0 | Preliminaries | None | - Review Course Sites ([Talent LMS](https://bsrt-dukebiostat.talentlms.com/), [Github](https://github.com/mengelhard/bsrt_ml4h))<br>- Review [Course Syllabus](https://github.com/mengelhard/bsrt_ml4h/blob/master/syllabus.md) and Materials<br>- Quiz 1<br>- [CE1: Getting Oriented in Jupyter/Python](https://github.com/mengelhard/bsrt_ml4h/blob/master/notebooks/ce1.ipynb)
-1 | Introduction to Machine Learning for Health | | - Quiz 2
-2 | What is a Predictive Model? | | - Quiz 3<br>- [CE2: Loading and Partitioning Data](https://github.com/mengelhard/bsrt_ml4h/blob/master/notebooks/ce2.ipynb)
-3 | Model Learning | | - Quiz 4<br>- [CE3: Model Training and Model Selection](https://github.com/mengelhard/bsrt_ml4h/blob/master/notebooks/ce3.ipynb)
-4 | Model Evaluation and Overfitting | | - Quiz 5<br>- [CE4: Overfitting](https://github.com/mengelhard/bsrt_ml4h/blob/master/notebooks/ce4.ipynb)
-5 | Introduction to Convolutional Neural Networks (CNNs) | | - Quiz 6<br>- Project Proposal
-6 | Medical Image Analysis with CNNs | | - Quiz 7<br>- [CE5: A Simple CNN](https://github.com/mengelhard/bsrt_ml4h/blob/master/notebooks/ce5.ipynb)
-7 | Measuring Performance | | - Quiz 8<br>- [CE6: CNN Fine-Tuning](https://github.com/mengelhard/bsrt_ml4h/blob/master/notebooks/ce6.ipynb)
-8 | Natural Language Processing with Bag of Words Models | | - Quiz 9<br>- [CE7: Performance Metrics](https://github.com/mengelhard/bsrt_ml4h/blob/master/notebooks/ce7.ipynb)
-9 | Word Embeddings and a Simple Embedding-Based Model | | - Quiz 9<br>- [CE8: Abstract Classification with BoW](https://github.com/mengelhard/bsrt_ml4h/blob/master/notebooks/ce8.ipynb)
-10 | Case Study: Prediction of Neurodevelopmental Disorders | | - Quiz 10<br>- [CE9: Working with Word Embeddings](https://github.com/mengelhard/bsrt_ml4h/blob/master/notebooks/ce9.ipynb)
-11 | Neural Network Models for Text and Time Series | | - Quiz 11<br>- [CE10: A Simple Word Embedding Based Model](https://github.com/mengelhard/bsrt_ml4h/blob/master/notebooks/ce10.ipynb)
-12 | Implementation of Predictive Models in Clinical Care | | - Quiz 12<br>- [CE11: Clinically Relevant Perforamance](https://github.com/mengelhard/bsrt_ml4h/blob/master/notebooks/ce11.ipynb)
-13 | A Brief Introduction to Reinforcement Learning | | - Quiz 13<br>- [(Optional) CE12: Beyond Supervised Learning](https://github.com/mengelhard/bsrt_ml4h/blob/master/notebooks/ce12.ipynb)
+0 | Preliminaries | None | - Review Course Sites ([Talent LMS](https://bsrt-dukebiostat.talentlms.com/), [Github](https://github.com/mengelhard/bsrt_ml4h))<br>- Review [Course Syllabus](https://github.com/mengelhard/bsrt_ml4h/blob/master/syllabus.md) and Materials<br>- Survey 1<br>- [CE1: Getting Oriented in Jupyter/Python](https://github.com/mengelhard/bsrt_ml4h/blob/master/notebooks/ce1.ipynb)
+1 | Introduction to Machine Learning for Health | | - Survey 2
+2 | What is a Predictive Model? | | - Survey 3<br>- [CE2: Loading and Partitioning Data](https://github.com/mengelhard/bsrt_ml4h/blob/master/notebooks/ce2.ipynb)
+3 | Model Learning | | - Survey 4<br>- [CE3: Model Training and Model Selection](https://github.com/mengelhard/bsrt_ml4h/blob/master/notebooks/ce3.ipynb)
+4 | Model Evaluation and Overfitting | | - Survey 5<br>- [CE4: Overfitting](https://github.com/mengelhard/bsrt_ml4h/blob/master/notebooks/ce4.ipynb)
+5 | Introduction to Convolutional Neural Networks (CNNs) | | - Survey 6<br>- Project Proposal
+6 | Medical Image Analysis with CNNs | | - Survey 7<br>- [CE5: A Simple CNN](https://github.com/mengelhard/bsrt_ml4h/blob/master/notebooks/ce5.ipynb)
+7 | Measuring Performance | | - Survey 8<br>- [CE6: CNN Fine-Tuning](https://github.com/mengelhard/bsrt_ml4h/blob/master/notebooks/ce6.ipynb)
+8 | Natural Language Processing with Bag of Words Models | | - Survey 9<br>- [CE7: Performance Metrics](https://github.com/mengelhard/bsrt_ml4h/blob/master/notebooks/ce7.ipynb)
+9 | Word Embeddings and a Simple Embedding-Based Model | | - Survey 10<br>- [CE8: Abstract Classification with BoW](https://github.com/mengelhard/bsrt_ml4h/blob/master/notebooks/ce8.ipynb)
+10 | Case Study: Prediction of Neurodevelopmental Disorders | | - Survey 11<br>- [CE9: Working with Word Embeddings](https://github.com/mengelhard/bsrt_ml4h/blob/master/notebooks/ce9.ipynb)
+11 | Neural Network Models for Text and Time Series | | - Survey 12<br>- [CE10: A Simple Word Embedding Based Model](https://github.com/mengelhard/bsrt_ml4h/blob/master/notebooks/ce10.ipynb)
+12 | Implementation of Predictive Models in Clinical Care | | - Survey 13<br>- [CE11: Clinically Relevant Perforamance](https://github.com/mengelhard/bsrt_ml4h/blob/master/notebooks/ce11.ipynb)
+13 | A Brief Introduction to Reinforcement Learning | | - Survey 14<br>- [(Optional) CE12: Beyond Supervised Learning](https://github.com/mengelhard/bsrt_ml4h/blob/master/notebooks/ce12.ipynb)
 14 | Beyond Supervised Learning | | - Final Projects are due next time
 15 | Course Project Presentations | | None
