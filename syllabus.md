@@ -39,9 +39,10 @@ Please refer to the [main page](http://www.github.com/mengelhard/bsrt_ml4h).
 
 Item | Due | Weight
 --- | --- | ---
-Weekly Quizzes | Before Class Each Week | 25%
+Readings and Surveys | Before Class Each Week | 20%
 Computational Exercises | Before Class Each Week | 25%
-Final Design Project | Before the Final Class | 25%
+Project Proposal | Before Class in Week 5 | 5%
+Final Project | Before the Final Class | 25%
 Class Participation | NA | 25%
 
 All assignments will be submitted through Sakai.
