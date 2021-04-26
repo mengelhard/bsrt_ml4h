@@ -49,5 +49,5 @@ Week | Topic | Lectures | Assignments
 11 | Neural Network Models for Text and Time Series | | - Quiz 11<br>- [CE10: A Simple Word Embedding Based Model](https://github.com/mengelhard/bsrt_ml4h/blob/master/notebooks/ce10.ipynb)
 12 | Implementation of Predictive Models in Clinical Care | | - Quiz 12<br>- [CE11: A Less Simple Embedding Based Model](https://github.com/mengelhard/bsrt_ml4h/blob/master/notebooks/ce11.ipynb)
 13 | A Brief Introduction to Reinforcement Learning | | - Quiz 13<br>- [CE12: Clinically Relevant Perforamance](https://github.com/mengelhard/bsrt_ml4h/blob/master/notebooks/ce12.ipynb)
-14 | Beyond Supervised Learning | | - Quiz 14<br>- [CE13: Beyond Supervised Learning](https://github.com/mengelhard/bsrt_ml4h/blob/master/notebooks/ce13.ipynb)
-15 | Course Project Presentations | | - Quiz 15<br> - Final Projects Due
+14 | Beyond Supervised Learning | | - Quiz 14<br>- Final Projects due next time<br>- [CE13: Beyond Supervised Learning (Optional)](https://github.com/mengelhard/bsrt_ml4h/blob/master/notebooks/ce13.ipynb)
+15 | Course Project Presentations | | None
