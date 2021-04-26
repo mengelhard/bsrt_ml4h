@@ -48,6 +48,6 @@ Week | Topic | Lectures | Assignments
 10 | Case Study: Prediction of Neurodevelopmental Disorders | | - Quiz 10<br>- [CE9: Working with Word Embeddings](https://github.com/mengelhard/bsrt_ml4h/blob/master/notebooks/ce9.ipynb)
 11 | Neural Network Models for Text and Time Series | | - Quiz 11<br>- [CE10: A Simple Word Embedding Based Model](https://github.com/mengelhard/bsrt_ml4h/blob/master/notebooks/ce10.ipynb)
 12 | Implementation of Predictive Models in Clinical Care | | - Quiz 12<br>- [CE11: Clinically Relevant Perforamance](https://github.com/mengelhard/bsrt_ml4h/blob/master/notebooks/ce11.ipynb)
-13 | A Brief Introduction to Reinforcement Learning | | - Quiz 13<br>- [(Optional) CE12: Beyond Supervised Learning](https://github.com/mengelhard/bsrt_ml4h/blob/master/notebooks/ce12.ipynb)
+13 | A Brief Introduction to Reinforcement Learning | | - [(Optional) CE12: Beyond Supervised Learning](https://github.com/mengelhard/bsrt_ml4h/blob/master/notebooks/ce12.ipynb)
 14 | Beyond Supervised Learning | | - Quiz 14<br>- Final Projects are due next time
 15 | Course Project Presentations | | None
