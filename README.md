@@ -31,7 +31,7 @@
 
 ## Schedule
 
-- Note that assignments for a given week are due before class the following week.
+- Note that assignments for a given week are **due before class the following week**.
 
 Week | Topic | Lectures | Assignments
 --- | --- | --- | ---
