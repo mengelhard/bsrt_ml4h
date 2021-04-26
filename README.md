@@ -12,15 +12,13 @@
 
 [Final Project Instructions](https://github.com/mengelhard/bsrt_ml4h/blob/master/final_project.md)
 
-[Final Project Grading](https://github.com/mengelhard/bsrt_ml4h/blob/master/final_project_grading.md)
-
 ## Schedule
 
 - Note that assignments for a given week are due before class the following week.
 
 Week | Topic | Lectures | Assignments
 --- | --- | --- | ---
-0 | Preliminaries | None | - Review Course Sites ([Talent LMS](https://bsrt-dukebiostat.talentlms.com/), [Github](https://github.com/mengelhard/bsrt_ml4h))<br>- Review Course Syllabus and Materials<br>- Quiz 1<br>- [CE1: Getting Oriented in Jupyter/Python](https://github.com/mengelhard/bsrt_ml4h/blob/master/notebooks/ce1.ipynb)
+0 | Preliminaries | None | - Review Course Sites ([Talent LMS](https://bsrt-dukebiostat.talentlms.com/), [Github](https://github.com/mengelhard/bsrt_ml4h))<br>- Review [Course Syllabus](https://github.com/mengelhard/bsrt_ml4h/blob/master/syllabus.md) and Materials<br>- Quiz 1<br>- [CE1: Getting Oriented in Jupyter/Python](https://github.com/mengelhard/bsrt_ml4h/blob/master/notebooks/ce1.ipynb)
 1 | Introduction to Machine Learning for Health | | - Quiz 2
 2 | What is a Predictive Model? | | - Quiz 3<br>- [CE2: Loading and Partitioning Data](https://github.com/mengelhard/bsrt_ml4h/blob/master/notebooks/ce2.ipynb)
 3 | Model Learning | | - Quiz 4<br>- [CE3: Model Training and Model Selection](https://github.com/mengelhard/bsrt_ml4h/blob/master/notebooks/ce3.ipynb)
