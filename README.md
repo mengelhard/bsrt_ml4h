@@ -27,7 +27,7 @@
 ### Final Project
 - The course will culminate in a project in which you apply data science methods to a clinical dataset of your choosing.
 - Project instructions and grading details are [here](https://github.com/mengelhard/bsrt_ml4h/blob/master/final_project.md).
-- **Proposals are due** before class in week 5, and the **project is due** before the final class period.
+- **Proposals are due** before class in week 6, and the **project is due** before the final class period.
 
 ## Schedule
 
