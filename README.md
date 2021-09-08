@@ -31,8 +31,9 @@
 
 ## Schedule
 
-- Note that assignments for a given week are **due before class the following week**.
+- Please follow the schedule and activities posted in [Talent LMS](https://bsrt-dukebiostat.talentlms.com/)
 
+<!--
 Week | Topic | Lectures | Due Before Next Class
 --- | --- | --- | ---
 0 | Preliminaries | None | - Review Course Sites ([Talent LMS](https://bsrt-dukebiostat.talentlms.com/), [Github](https://github.com/mengelhard/bsrt_ml4h))<br>- Review [Course Syllabus](https://github.com/mengelhard/bsrt_ml4h/blob/master/syllabus.md) and Materials<br>- [Reading 1: Obermeyer and Emanuel](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5070532/)<br>- Survey 1 (in [Talent LMS](https://bsrt-dukebiostat.talentlms.com/))<br>- [CE1: Getting Oriented in Jupyter/Python](https://github.com/mengelhard/bsrt_ml4h/blob/master/notebooks/ce1.ipynb)
@@ -51,3 +52,4 @@ Week | Topic | Lectures | Due Before Next Class
 13 | A Brief Introduction to Reinforcement Learning | | - [Reading 14: TBD](about:blank)<br>- Survey 14 (in [Talent LMS](https://bsrt-dukebiostat.talentlms.com/))<br>- [(Optional) CE12: Beyond Supervised Learning](https://github.com/mengelhard/bsrt_ml4h/blob/master/notebooks/ce12.ipynb)
 14 | Beyond Supervised Learning | | - Final Projects are due next time
 15 | Course Project Presentations | | None
+-->
