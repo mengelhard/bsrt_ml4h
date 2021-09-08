@@ -41,7 +41,7 @@ Item | Due | Weight
 --- | --- | ---
 Readings and Surveys | Before Class Each Week | 20%
 Computational Exercises | Before Class Each Week | 25%
-Project Proposal | Before Class in Week 5 | 5%
+Project Proposal | Before Class in Week 6 | 5%
 Final Project | Before the Final Class | 25%
 Class Participation | NA | 25%
 
