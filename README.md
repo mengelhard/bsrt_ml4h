@@ -10,15 +10,15 @@
 ## Course Materials
 
 - **[Please review the syllabus by clicking here](https://github.com/mengelhard/bsrt_ml4h/blob/master/syllabus.md)**
-- Materials for each week are linked in the *Schedule* below
+- Materials for each week are linked in the schedule in [Talent LMS](https://bsrt-dukebiostat.talentlms.com/)
 
 ### Readings and Post-Reading Surveys
-- A weekly reading + survey will be due before each class (with exceptions noted in the *Schedule*)
+- A weekly reading + survey will be due before each class (with exceptions noted in [Talent LMS](https://bsrt-dukebiostat.talentlms.com/))
 - Readings are linked below, and surveys must be completed in [Talent LMS](https://bsrt-dukebiostat.talentlms.com/)
 - Both are pass/fail and together are a substantial portion (20%) of your final grade
 
 ### Computational Exercises
-- Weekly computational exercises will be due before class (again with a few exceptions, as noted in the *Schedule*)
+- Weekly computational exercises will be due before class (again with a few exceptions, as noted in [Talent LMS](https://bsrt-dukebiostat.talentlms.com/))
 - Each exercise will present code and output, then ask you to modify the code to complete additional tasks
 - ***These exercises require you to code in Python in a Jupyter Notebook environment***
 - We recommend either [installing Anaconda](https://www.anaconda.com/products/individual#Downloads) or working in [Google Colab](colab.research.google.com).
